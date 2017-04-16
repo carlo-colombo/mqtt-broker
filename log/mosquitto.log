@@ -1,0 +1,9 @@
+1492269454: mosquitto version 1.4.11 (build date Mon, 20 Feb 2017 22:47:27 +0000) starting
+1492269454: Config loaded from /mqtt/config/mosquitto.conf.
+1492269454: Opening websockets listen socket on port 9001.
+1492269454: Opening ipv4 listen socket on port 1883.
+1492269454: Opening ipv6 listen socket on port 1883.
+1492269455: New connection from 172.18.0.1 on port 1883.
+1492269455: New client connected from 172.18.0.1 as lens_TKoZlJRkRPLfu5ofaEIVhHZBbJT (c1, k120).
+1492334727: Error in poll: Interrupted system call.
+1492334727: mosquitto version 1.4.11 terminating
